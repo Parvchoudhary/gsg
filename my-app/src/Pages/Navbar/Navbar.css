@@ -1,0 +1,9 @@
+.toolBar
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-right: 6vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}

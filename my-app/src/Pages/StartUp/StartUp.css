@@ -1,0 +1,242 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Nunito+Sans&display=swap');
+
+body {
+  background: #f0fff4;
+  caret-color: transparent;
+}
+.briefCont
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.brief
+{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+    height: 90vh;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    box-shadow: 12px 11px 29px rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+.briefTop
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 20%;
+    margin-top: 3.5%;
+
+}
+
+
+.briefProfile {
+    border-radius: 50%;
+    background: #d9d9d9;
+    width: 5vw;
+    height: 5vw;
+    margin-left: 5%;
+  }
+  
+  .briefName {
+    font-family: "Nunito Sans", serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+    margin-left: 5%;
+    font-size: 1.5rem;
+    margin-top: -1%;
+  }
+  
+  
+  
+.briefStats
+{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5%;
+    width: 50%;
+    margin-left: 10%;
+    margin-top: -1.32%;
+}
+
+.briefStage
+{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.8rem;
+    color: #898989;
+    margin-top: 2%;
+    margin-left: 6%;
+}
+.division
+{
+    background: #C4C4C4;
+    height: 2.5rem;
+    width: 0.2rem;
+    margin-top: 6%;
+    margin-left: 5%;
+}
+
+.briefDesc
+{
+    font-family: "Nunito", serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.95rem;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+    
+    padding-left: 5%;
+    width: 90%;
+}
+
+.briefInfo
+{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.briefBtn
+{
+    padding-top: 4%;
+}
+
+.pitch
+{
+    font-family: "Nunito", serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+    padding-top: 4%;
+}
+
+.briefimgCont
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.briefImg{
+    margin-left: 5%;
+}
+
+.briefTeamCont
+{
+    display: flex;
+    flex-direction: column;
+    width: 23.5vw;
+    height: 17vw;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    box-shadow: 12px 11px 29px rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+    margin-left: 6.5%;
+    font-family: "Nunito", serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+    margin-top: 20%;
+}
+
+.briefTeamTitle
+{
+    padding-top: 5%;
+    padding-left: 7%;
+}
+
+.briefTeamInfo
+{
+    
+    display: flex;
+    flex-direction: row;
+    margin-top: -7%;
+}
+
+
+.briefTeamProf
+{
+    padding-left: 5%;
+    margin-top: 1%;
+}
+
+.briefTeamName
+{
+    width: 55%;
+    padding-left: 3%;
+    margin-top: 6%;
+}
+
+.briefTeamPos
+{
+    width: 35%;
+    margin-left: -8%;
+    margin-top: 1%;
+}
+
+.briefprofileImg
+{
+    border-radius: 50%;
+    background: #d9d9d9;
+    width: 2vw;
+    height: 2vw;
+    margin-top: 67%;
+}
+
+.briefprofileDesc
+{
+    
+    display: flex;
+    flex-direction: row;
+    padding-left: 1%;
+    margin-top: -4%;
+    font-size: 1.1rem;
+    width: 85%;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+.position
+{
+    margin-top: 17.5%;
+}
+
+.briefMessage
+{
+    display: flex;
+    flex-direction: row;
+    width: 21vw;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    box-shadow: 12px 11px 29px rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+    margin-left: 6.5%;
+    font-family: "Nunito", serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 150%;
+    letter-spacing: 0.15px;
+    margin-top: 9.5%;
+    padding-left: 10%;
+    align-items: center;
+}

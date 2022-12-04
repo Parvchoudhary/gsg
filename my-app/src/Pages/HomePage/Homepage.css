@@ -1,0 +1,66 @@
+body{
+    background: #F0FFF4;
+  }
+  
+  .homepage {
+    text-align: center;
+    background: #F0FFF4;
+    height:100vh;
+  }
+  
+  .landTitle{
+    text-align:left;
+    margin-left: 38%;
+    margin-bottom: 1rem;
+    font-size:3rem;
+  }
+  
+  .landCont
+  {
+    margin-top: 12%;
+  }
+  
+  .roleimg{
+    height: 10rem;
+  }
+  
+  .roleimgtop{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80vh;
+  }
+  
+  .roleimgbtm{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 60vh;
+  }
+  
+  .landDesc
+  {
+    margin-top: -1.5%;
+    margin-left: 38%;
+    width: 34%;
+    font-size:2.8rem;
+    text-align: left;
+  }
+  
+  .landtxt
+  {
+    font-weight: 300;
+    font-size: 1.2rem;
+    line-height: 190.5%;
+    margin-left: 7%;
+    margin-top:-2%;
+  }
+  
+  .landBtn
+  {
+    background: #4D9762;
+    border-radius: 4px;
+    /* margin-left: 2rem; */
+  }
+  
+  
